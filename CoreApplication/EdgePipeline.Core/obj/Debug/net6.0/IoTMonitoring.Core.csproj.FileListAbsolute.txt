@@ -1,0 +1,12 @@
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/bin/Debug/net6.0/IoTMonitoring.Core.deps.json
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/bin/Debug/net6.0/IoTMonitoring.Core.dll
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/bin/Debug/net6.0/IoTMonitoring.Core.pdb
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.csproj.AssemblyReference.cache
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.AssemblyInfoInputs.cache
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.AssemblyInfo.cs
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.csproj.CoreCompileInputs.cache
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.dll
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/refint/IoTMonitoring.Core.dll
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.pdb
+/Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/ref/IoTMonitoring.Core.dll

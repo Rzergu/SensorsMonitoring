@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoTMonitoring", "EdgePipeline\IoTMonitoring.csproj", "{874B19B0-B6CA-4FD0-B748-7E8661517EA7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoTMonitoring.Core", "EdgePipeline.Core\IoTMonitoring.Core.csproj", "{95ADC7ED-67C6-4580-A380-104AD8CAB9D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoTMonitoring.Data", "EdgePipeline.Data\IoTMonitoring.Data.csproj", "{D68BFB41-00FA-4758-965D-FDAE9E0BEEC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IoTMonitoring.Tests", "EdgePipeline.Tests\IoTMonitoring.Tests.csproj", "{0055939C-0B14-49A6-AFED-5B5C2D44EC92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{874B19B0-B6CA-4FD0-B748-7E8661517EA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874B19B0-B6CA-4FD0-B748-7E8661517EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874B19B0-B6CA-4FD0-B748-7E8661517EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874B19B0-B6CA-4FD0-B748-7E8661517EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95ADC7ED-67C6-4580-A380-104AD8CAB9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95ADC7ED-67C6-4580-A380-104AD8CAB9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95ADC7ED-67C6-4580-A380-104AD8CAB9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95ADC7ED-67C6-4580-A380-104AD8CAB9D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68BFB41-00FA-4758-965D-FDAE9E0BEEC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68BFB41-00FA-4758-965D-FDAE9E0BEEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68BFB41-00FA-4758-965D-FDAE9E0BEEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68BFB41-00FA-4758-965D-FDAE9E0BEEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0055939C-0B14-49A6-AFED-5B5C2D44EC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0055939C-0B14-49A6-AFED-5B5C2D44EC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0055939C-0B14-49A6-AFED-5B5C2D44EC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0055939C-0B14-49A6-AFED-5B5C2D44EC92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7CEEA0-AD1D-469C-992C-A7EC3D599C1C}
+	EndGlobalSection
+EndGlobal

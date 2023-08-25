@@ -1,0 +1,3 @@
+C:\Proj\mltool\obj\Debug\netcoreapp2.2\dotnetcore.csprojAssemblyReference.cache
+C:\Proj\mltool\obj\Debug\netcoreapp2.2\dotnetcore.AssemblyInfoInputs.cache
+C:\Proj\mltool\obj\Debug\netcoreapp2.2\dotnetcore.AssemblyInfo.cs

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IoTMonitoring.Tests
+build_property.ProjectDir = /Users/vaceslavleznovskij/Documents/Proj/SensorMonitoring/CoreApplication/EdgePipeline.Tests/

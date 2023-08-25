@@ -1,0 +1,46 @@
+<body>
+  <mat-sidenav-container class="main-container">
+    <mat-sidenav #sidenav #drawer mode="side" close class="main-sidebar">
+      <mat-nav-list>
+        <a mat-list-item [routerLink]="''">
+          <div class="navbar-item-content"><mat-icon class="main-logo" svgIcon="wifi"></mat-icon></div>
+        </a>
+        <a mat-list-item [routerLink]="'/things'" class="navbar-item" routerLinkActive="active">
+          <div class="navbar-item-content">
+            <mat-icon class="navbar-item-logo" svgIcon="view-compact"></mat-icon>
+            Обзор
+          </div>
+        </a>
+        <a mat-list-item [routerLink]="'/things'" class="navbar-item" routerLinkActive="active">
+          <div class="navbar-item-content">
+            <mat-icon class="navbar-item-logo" svgIcon="chart-bell-curve"></mat-icon>
+            Аналитика
+          </div>
+        </a>
+        <a mat-list-item [routerLink]="'/things'" class="navbar-item" routerLinkActive="active">
+          <div class="navbar-item-content">
+            <mat-icon class="small-btn" svgIcon="signal-cellular-1"></mat-icon>
+            Состояние датчиков
+          </div>
+        </a>
+        <a mat-list-item [routerLink]="'/things'" class="navbar-item" routerLinkActive="active">
+          <div class="navbar-item-content">
+            <mat-icon class="navbar-item-logo" svgIcon="account-circle-outline"></mat-icon>
+            Кабинет
+          </div>
+        </a>
+        <a mat-list-item [routerLink]="'/things'" class="navbar-item" routerLinkActive="active">
+          <div class="navbar-item-content">
+            <mat-icon class="navbar-item-logo" svgIcon="cog"></mat-icon>
+            Настройки
+          </div>
+        </a>
+      </mat-nav-list>
+    </mat-sidenav>
+    <mat-sidenav-content>
+      <div class="main-content">
+        <router-outlet></router-outlet>
+      </div>
+    </mat-sidenav-content>
+  </mat-sidenav-container>  
+</body>

@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Config\" />
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Logging\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.21" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.32.1" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.8" />
+    <PackageReference Include="System.Net.Http.Json" Version="6.0.1" />
+    <PackageReference Include="Unity" Version="5.11.10" />
+    <PackageReference Include="Npgsql" Version="6.0.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EdgePipeline.Core\IoTMonitoring.Core.csproj" />
+  </ItemGroup>
+</Project>

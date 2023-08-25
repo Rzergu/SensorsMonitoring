@@ -1,0 +1,14 @@
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=3.7.6
+- pip
+- pip:
+  - mlflow
+  - numpy
+  - scipy
+  - peakutils
+  - pandas
+  - CloudPickle==1.6.0
+name: mlflow-env

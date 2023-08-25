@@ -1,0 +1,62 @@
+<div class="items-container">
+  <div class="items-container-header">
+  </div>
+  <div style="height:100%" fxLayout="row">
+      <div  fxFlex="70%"  style="margin-right: 25px;">
+          <div fxLayout="column">
+                <div class="item-container" fxFlex="70%">
+                    <div class="item-container-header">
+                        <div class="item-container-header-left">Мониторинг состояния</div>
+                    </div>
+                    <div class="state-graph-container">
+                        <div class="analitic-graph">
+                            <analitic-graph [data] = "sensor"></analitic-graph>
+                        </div>
+                    </div>
+                </div>
+                <div class="item-container" fxFlex="30%" style="margin-top: 25px;">
+                <div class="item-container-header">
+                    <div class="item-container-header-left">Мониторинг состояния</div>
+                </div>
+                <div class="state-graph-container" style="overflow: hidden; height: 400px;">
+                    <div class="analitic-graph">
+                        <simple-chart [data] = "data"></simple-chart>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+      <div  fxFlex="30%" >
+        <div>
+            <div class="item-container">
+                <div class="item-container-header">
+                    <div class="item-container-header-left">Отклонение от нормального</div>
+                </div>
+                <div class="state-graph-container">
+                    <div class="analitic-graph">
+                        <point-chart [data] = "sensor"></point-chart>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div>
+            <div class="item-container">
+                <div class="cards">
+                    <div class="card-item" (click)="setAsNormal()">
+                        <div class="card-item-header">
+                            <div class="example-header-image"></div>
+                            <div class="card-item-header-text">
+                                <div class="disable-selection">Сделать нормой</div>
+                                <div class="disable-selection subtitle-text">Выставить текущее как нормальное</div>
+                            </div>
+                        </div>
+                        <div class="rounded-btn second-color-bg medium-btn"><mat-icon svgIcon="chevron-right"></mat-icon></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+      </div>
+  </div>
+</div>

@@ -1,0 +1,56 @@
+<div class="items-container" style="height: 100%;">
+    <div class="items-container-header">
+    </div>
+    <div fxLayout="row" fxLayout.xs="column" fxFlexFill>
+        <div fxLayout="column" fxFlex="60" style="margin-right: 35px;">
+            <div class="item-container">
+                <div class="item-container-header">
+                    <div class="item-container-header-left">Мониторинг состояния</div>
+                </div>
+                <div class="state-graph-container">
+                    <div class="state-graph-legend">
+                        <div class="graph-legend-item"><div class="graph-legend-item-color"></div>Item 1</div>
+                        <div class="graph-legend-item"><div class="graph-legend-item-color"></div>Item 2</div>
+                    </div>
+                    <div class="state-graph">
+                        <state-graph [data] = "data"></state-graph>
+                    </div>
+                </div>
+            </div>
+            <div class="item-container" style="margin-top: 35px;">
+                <div class="item-container-header">
+                    <div class="item-container-header-left">Оповещения</div>
+                    <div class="item-container-header-right"><mat-icon class="search-btn" svgIcon="magnify"></mat-icon></div>
+                </div>
+                <div class="notifications-container">
+                    <div class="notifications" *ngFor="let camera of cameras;" (click)="navigateToCameraDetail(camera.id)">
+                        <div class="notification border-critical">{{camera.name}}</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div fxFlex="40" class="item-container">
+            <div class="item-container-header">
+                <div class="item-container-header-left">Вещи</div>
+                <div class="item-container-header-right">
+                    <div class="search-btn" style="margin-right: 15px;">
+                        <mat-icon svgIcon="magnify"></mat-icon>
+                    </div>
+                    <div class="rounded-btn main-color-bg big-btn">+</div>
+                </div>
+            </div>
+            <div class="cards">
+                <div class="card-item" *ngFor="let camera of cameras;" (click)="navigateToCameraDetail(camera.id)">
+                    <div class="card-item-header">
+                        <div class="example-header-image"></div>
+                        <div class="card-item-header-text">
+                            <div class="disable-selection">{{camera.name}}</div>
+                            <div class="disable-selection subtitle-text">Dog Breed</div>
+                        </div>
+                    </div>
+                    <div class="rounded-btn second-color-bg medium-btn"><mat-icon svgIcon="chevron-right"></mat-icon></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

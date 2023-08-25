@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="nunit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.13.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.7.1" />
+    <PackageReference Include="Unity" Version="5.11.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EdgePipeline.Core\IoTMonitoring.Core.csproj" />
+    <ProjectReference Include="..\EdgePipeline.Data\IoTMonitoring.Data.csproj" />
+    <ProjectReference Include="..\EdgePipeline\IoTMonitoring.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,61 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+.disable-selection {
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer */
+  -khtml-user-select: none; /* KHTML browsers (e.g. Konqueror) */
+  -webkit-user-select: none; /* Chrome, Safari, and Opera */
+  -webkit-touch-callout: none; /* Disable Android and iOS callouts*/
+}
+.items-container {
+  position: relative;
+}
+.items-container-sheader {
+  margin-bottom: 20px;
+}
+.item-container {
+  background-color: rgba(254, 254, 254, 0.05);
+  height: 100%;
+  
+}
+.card-item {
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+}
+.card-content {
+  color: rgba(254, 254, 254, 0.87) !important;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+.goto-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.subtitle-text {
+  color: rgba(254, 254, 254, 0.60);
+  margin-bottom: 0px !important;
+}
+.card-item-header{
+  display: flex;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
