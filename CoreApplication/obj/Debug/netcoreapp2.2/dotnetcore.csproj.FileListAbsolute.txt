@@ -1,3 +1,8 @@
-C:\Proj\mltool\obj\Debug\netcoreapp2.2\dotnetcore.csprojAssemblyReference.cache
-C:\Proj\mltool\obj\Debug\netcoreapp2.2\dotnetcore.AssemblyInfoInputs.cache
-C:\Proj\mltool\obj\Debug\netcoreapp2.2\dotnetcore.AssemblyInfo.cs
+C:/Proj/mltool/obj/Debug/netcoreapp2.2/dotnetcore.csprojAssemblyReference.cache
+C:/Proj/mltool/obj/Debug/netcoreapp2.2/dotnetcore.AssemblyInfoInputs.cache
+C:/Proj/mltool/obj/Debug/netcoreapp2.2/dotnetcore.AssemblyInfo.cs
+/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/obj/Debug/netcoreapp2.2/dotnetcore.csproj.AssemblyReference.cache
+/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/obj/Debug/netcoreapp2.2/dotnetcore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/obj/Debug/netcoreapp2.2/dotnetcore.AssemblyInfoInputs.cache
+/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/obj/Debug/netcoreapp2.2/dotnetcore.AssemblyInfo.cs
+/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/obj/Debug/netcoreapp2.2/dotnetcore.csproj.CoreCompileInputs.cache

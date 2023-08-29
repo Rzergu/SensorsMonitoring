@@ -9,7 +9,7 @@ export class AppConfig {
 
         this._config = { 
 
-            PathAPI: 'http://192.168.0.102:5001/api'
+            PathAPI: 'http://192.168.0.106:8080/api'
 
         };
 

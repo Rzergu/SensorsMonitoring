@@ -8,6 +8,7 @@ using IoTMonitoring.ViewModels.FrequencySensorData;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -33,8 +34,8 @@ namespace IoTMonitoring.Services
 		{
 			_logger.LogInformation("AddSensorsValues called");
 			var sensorValue = new SensorValue()
-			{
-				Date = sensData.Date,
+            {
+				Date = DateTime.SpecifyKind(sensData.Date, DateTimeKind.Utc), 
 				SensorId = sensData.SensorId,
 				FreqValues = sensData.SensorsFrequencyDataItems.ToDictionary(x => x.Frequency, x => x.Power)
 			};

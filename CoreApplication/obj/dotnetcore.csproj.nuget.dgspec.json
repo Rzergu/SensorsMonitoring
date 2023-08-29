@@ -1,34 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proj\\mltool\\dotnetcore.csproj": {}
+    "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/dotnetcore.csproj": {}
   },
   "projects": {
-    "C:\\Proj\\mltool\\dotnetcore.csproj": {
+    "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/dotnetcore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proj\\mltool\\dotnetcore.csproj",
+        "projectUniqueName": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/dotnetcore.csproj",
         "projectName": "dotnetcore",
-        "projectPath": "C:\\Proj\\mltool\\dotnetcore.csproj",
-        "packagesPath": "C:\\Users\\Sl\\.nuget\\packages\\",
-        "outputPath": "C:\\Proj\\mltool\\obj\\",
+        "projectPath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/dotnetcore.csproj",
+        "packagesPath": "/Users/vaceslavleznovskij/.nuget/packages/",
+        "outputPath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Sl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/vaceslavleznovskij/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -40,6 +37,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -54,11 +52,12 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
         }
       }
     }

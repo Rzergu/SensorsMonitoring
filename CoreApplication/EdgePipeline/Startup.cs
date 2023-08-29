@@ -19,6 +19,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
+using System;
 using System.Threading.Tasks;
 
 namespace EdgePipeline
@@ -137,7 +138,7 @@ namespace EdgePipeline
 			}
 			//app.UseHttpsRedirection();
 			app.UseRouting();
-			app.UseCors("CorsPolicy");
+            app.UseCors("CorsPolicy");
 			app.UseAuthentication();
 			app.UseAuthorization();
 			app.UseEndpoints(endpoints =>
