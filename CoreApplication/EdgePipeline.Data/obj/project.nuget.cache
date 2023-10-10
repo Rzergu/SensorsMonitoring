@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6e4Ig+dslnuqtW3ZZ90gySrvOV7+UGIi5T20akQleYxddVqnCcpoADHvDks9i9nez+3g6x/2+lPeBWBr9LHDkw==",
+  "dgSpecHash": "OapPB14p5wjQ16hfsjmrLo67iaeN3wzNnqimcvUUWuP5LQ1OuF522jFK2I1Ebh5Wln6U4z7ljz+qhmwViZUinw==",
   "success": true,
-  "projectFilePath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/IoTMonitoring.Data.csproj",
+  "projectFilePath": "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/IoTMonitoring.Data.csproj",
   "expectedPackageFiles": [
     "/Users/vaceslavleznovskij/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.21/microsoft.aspnetcore.cryptography.internal.6.0.21.nupkg.sha512",
     "/Users/vaceslavleznovskij/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.21/microsoft.aspnetcore.cryptography.keyderivation.6.0.21.nupkg.sha512",

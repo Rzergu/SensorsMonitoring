@@ -1,23 +1,51 @@
 ﻿<Properties StartupConfiguration="{874B19B0-B6CA-4FD0-B748-7E8661517EA7}|EdgePipeline">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.IoTMonitoring PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EdgePipeline/appsettings.json">
     <Files>
-      <File FileName="../../../../../../usr/local/share/dotnet/sdk/7.0.307/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets" Line="266" Column="5" />
+      <File FileName="EdgePipeline/Startup.cs" />
+      <File FileName="EdgePipeline/appsettings.json" Line="3" Column="88" />
+      <File FileName="EdgePipeline/Program.cs" />
+      <File FileName="EdgePipeline/Controllers/Api/ThingsController.cs" />
+      <File FileName="EdgePipeline/Controllers/Api/SensorsController.cs" />
+      <File FileName="EdgePipeline/Services/SensorsValuesModelService.cs" />
+      <File FileName="EdgePipeline.Core/Interfaces/IAsyncRepository.cs" />
+      <File FileName="EdgePipeline.Core/Entities/SensorValueAggregate/SensorValue.cs" />
+      <File FileName="EdgePipeline.Data/Data/Repositories/EfRepository.cs" />
+      <File FileName="EdgePipeline/Controllers/Api/AccountController.cs" />
+      <File FileName="EdgePipeline.Data/Identity/AuthOptions.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="dotnetcore" expanded="True">
-            <Node name="IoTMonitoring.Core" selected="True" />
+          <Node name="dotnetcore">
+            <Node name="IoTMonitoring" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="Api" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+            <Node name="IoTMonitoring.Core" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="SensorValueAggregate" expanded="True" />
+              </Node>
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+            <Node name="IoTMonitoring.Data" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+              <Node name="Identity" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>

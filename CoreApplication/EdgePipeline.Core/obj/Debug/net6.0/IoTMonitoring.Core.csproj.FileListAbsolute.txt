@@ -22,3 +22,15 @@
 /Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/refint/IoTMonitoring.Core.dll
 /Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.pdb
 /Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/ref/IoTMonitoring.Core.dll
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/bin/Debug/net6.0/IoTMonitoring.Core.deps.json
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/bin/Debug/net6.0/IoTMonitoring.Core.dll
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/bin/Debug/net6.0/IoTMonitoring.Core.pdb
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.csproj.AssemblyReference.cache
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.AssemblyInfoInputs.cache
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.AssemblyInfo.cs
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.csproj.CoreCompileInputs.cache
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.dll
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/refint/IoTMonitoring.Core.dll
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/IoTMonitoring.Core.pdb
+/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/Debug/net6.0/ref/IoTMonitoring.Core.dll
