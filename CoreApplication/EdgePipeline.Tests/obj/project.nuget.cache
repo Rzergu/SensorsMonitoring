@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O1Rr4Tjg8SQVCJlYskDKIOz2zRtDoK306qB8ZJI6G8sfyP5pC8H6/DXyEQIVr+/NaKoghZd+4e3d71CYp43KkQ==",
+  "dgSpecHash": "I6bwyZG6eGoqMsm9s7IT1cULXxRzQ/15MEJqYVRJtPFYU858Cl5dHesHjZQoCH3qlND271jvvMFOrJC8isIHPw==",
   "success": true,
-  "projectFilePath": "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Tests/IoTMonitoring.Tests.csproj",
+  "projectFilePath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Tests/IoTMonitoring.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/vaceslavleznovskij/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/vaceslavleznovskij/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/mobileApp/VibroDiagApp/VibroDiagApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/mobileApp/VibroDiagApp/VibroDiagApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/VibroDiagApp.app

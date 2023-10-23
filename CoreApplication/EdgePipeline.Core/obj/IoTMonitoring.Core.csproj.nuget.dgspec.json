@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj": {}
+    "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj": {}
   },
   "projects": {
-    "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj": {
+    "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj",
+        "projectUniqueName": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj",
         "projectName": "IoTMonitoring.Core",
-        "projectPath": "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj",
+        "projectPath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/IoTMonitoring.Core.csproj",
         "packagesPath": "/Users/vaceslavleznovskij/.nuget/packages/",
-        "outputPath": "/Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/",
+        "outputPath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/vaceslavleznovskij/.nuget/NuGet/NuGet.Config"

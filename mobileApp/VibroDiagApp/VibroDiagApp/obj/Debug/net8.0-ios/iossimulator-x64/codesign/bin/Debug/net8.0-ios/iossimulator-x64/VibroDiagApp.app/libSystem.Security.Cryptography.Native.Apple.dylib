@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/mobileApp/VibroDiagApp/VibroDiagApp/bin/Debug/net8.0-ios/iossimulator-x64/VibroDiagApp.app/libSystem.Security.Cryptography.Native.Apple.dylib

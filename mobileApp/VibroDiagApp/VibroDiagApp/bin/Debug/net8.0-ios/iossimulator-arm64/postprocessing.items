@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="VibroDiagApp.app/VibroDiagApp">
+      <BCSymbolMapName>VibroDiagApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>VibroDiagApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/mobileApp/VibroDiagApp/VibroDiagApp/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>VibroDiagApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/mobileApp/VibroDiagApp/VibroDiagApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
