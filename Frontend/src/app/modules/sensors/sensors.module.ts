@@ -14,7 +14,7 @@ import { FlexLayoutModule } from '@angular/flex-layout';
 import { AnaliticModule } from '../analitic/analitic.module';
 import { SimpleChartModule } from '../simpleChart/components/simplechart.module';
 import { PointChartModule } from '../pointChart/pointChart.module';
-import { ChartsModule } from 'ng2-charts'
+
 @NgModule({
     declarations: [
         SensorComponent
@@ -31,7 +31,6 @@ import { ChartsModule } from 'ng2-charts'
         PointChartModule,
         AnaliticModule,
         CommonModule,
-        ChartsModule,
         SharedComponentsModule,
         MatIconModule,
         StateModule

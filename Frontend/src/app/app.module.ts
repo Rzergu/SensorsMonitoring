@@ -48,7 +48,6 @@ import { MatTreeModule } from '@angular/material/tree';
 import { CoreModule } from './core/core.module';
 import { AppRoutingModule } from './app-routing.module';
 import { CommonModule } from '@angular/common';
-import { ChartsModule } from 'ng2-charts';
 import { StateModule } from './modules/state/state.module'
 import { MatIconRegistry, MatIconModule } from '@angular/material/icon';
 import { DomSanitizer } from '@angular/platform-browser';
@@ -62,7 +61,6 @@ import { FlexLayoutModule } from '@angular/flex-layout';
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
     HttpClientModule,
     A11yModule,
-    ChartsModule,
     CdkStepperModule,
     CdkTableModule,
     CdkTreeModule,

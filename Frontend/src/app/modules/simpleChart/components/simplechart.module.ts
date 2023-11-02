@@ -8,7 +8,6 @@ import { MatGridListModule } from '@angular/material/grid-list';
 import { CommonModule } from '@angular/common';
 import { MatTableModule } from '@angular/material/table';
 import { SharedComponentsModule } from '../../../shared/sharedComponents.module'
-import { ChartsModule } from 'ng2-charts'
 import { SimpleChartRoutingModule } from './simplechart.routing.module';
 import { MatCardModule } from '@angular/material/card';
 import { FlexLayoutModule } from '@angular/flex-layout';
