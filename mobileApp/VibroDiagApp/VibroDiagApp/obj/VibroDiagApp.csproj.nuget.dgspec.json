@@ -191,7 +191,7 @@
         "android-x86": {
           "#import": []
         },
-        "iossimulator-x64": {
+        "iossimulator-arm64": {
           "#import": []
         },
         "maccatalyst-arm64": {

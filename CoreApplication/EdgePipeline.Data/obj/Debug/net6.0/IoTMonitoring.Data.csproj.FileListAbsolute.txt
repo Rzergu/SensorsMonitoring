@@ -43,3 +43,4 @@
 /Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/obj/Debug/net6.0/refint/IoTMonitoring.Data.dll
 /Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/obj/Debug/net6.0/IoTMonitoring.Data.pdb
 /Volumes/sp60/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/obj/Debug/net6.0/ref/IoTMonitoring.Data.dll
+/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/obj/Debug/net6.0/IoTMonitoring.Data.sourcelink.json

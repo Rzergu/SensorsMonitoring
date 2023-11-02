@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "I6bwyZG6eGoqMsm9s7IT1cULXxRzQ/15MEJqYVRJtPFYU858Cl5dHesHjZQoCH3qlND271jvvMFOrJC8isIHPw==",
+  "dgSpecHash": "80mOe8lJTJGXoRg5+ZCT5l5q5uA3yewYeuR8gfM15rasCsrVaMNXc2I0FsX0WsyGVtb5zg1UUuxoY+EmnRJPqA==",
   "success": true,
   "projectFilePath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Tests/IoTMonitoring.Tests.csproj",
   "expectedPackageFiles": [
@@ -210,7 +210,9 @@
     "/Users/vaceslavleznovskij/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
     "/Users/vaceslavleznovskij/.nuget/packages/system.xml.xpath/4.3.0/system.xml.xpath.4.3.0.nupkg.sha512",
     "/Users/vaceslavleznovskij/.nuget/packages/system.xml.xpath.xmldocument/4.3.0/system.xml.xpath.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/vaceslavleznovskij/.nuget/packages/unity/5.11.10/unity.5.11.10.nupkg.sha512"
+    "/Users/vaceslavleznovskij/.nuget/packages/unity/5.11.10/unity.5.11.10.nupkg.sha512",
+    "/Users/vaceslavleznovskij/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/vaceslavleznovskij/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }

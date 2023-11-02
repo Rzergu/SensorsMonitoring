@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6e4Ig+dslnuqtW3ZZ90gySrvOV7+UGIi5T20akQleYxddVqnCcpoADHvDks9i9nez+3g6x/2+lPeBWBr9LHDkw==",
+  "dgSpecHash": "U25wdF2kA8P55jb7rLavvRdsS22O2ybX+iHLYQhXyuYrpekBJHHfArdFUng67TkYJ2oOKhQGdoLN/v2vKoLK0w==",
   "success": true,
   "projectFilePath": "/Users/vaceslavleznovskij/Documents/vibroDiag/SensorsMonitoring/CoreApplication/EdgePipeline.Data/IoTMonitoring.Data.csproj",
   "expectedPackageFiles": [
@@ -37,7 +37,9 @@
     "/Users/vaceslavleznovskij/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
     "/Users/vaceslavleznovskij/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
     "/Users/vaceslavleznovskij/.nuget/packages/system.text.json/6.0.7/system.text.json.6.0.7.nupkg.sha512",
-    "/Users/vaceslavleznovskij/.nuget/packages/unity/5.11.10/unity.5.11.10.nupkg.sha512"
+    "/Users/vaceslavleznovskij/.nuget/packages/unity/5.11.10/unity.5.11.10.nupkg.sha512",
+    "/Users/vaceslavleznovskij/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/vaceslavleznovskij/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }

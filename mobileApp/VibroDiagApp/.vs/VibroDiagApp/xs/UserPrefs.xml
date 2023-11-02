@@ -1,4 +1,30 @@
 ﻿<Properties StartupConfiguration="{CBACD75D-3515-4776-9539-89EF9B9309BA}|Default">
-  <MonoDevelop.Ide.ItemProperties.VibroDiagApp FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.VibroDiagApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VibroDiagApp/Platforms/Android/Resources/values/colors.xml">
+    <Files>
+      <File FileName="VibroDiagApp/MainPage.xaml.cs" />
+      <File FileName="VibroDiagApp/MainPage.xaml" />
+      <File FileName="VibroDiagApp/Platforms/Android/Resources/values/colors.xml" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VibroDiagApp">
+            <Node name="VibroDiagApp">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>

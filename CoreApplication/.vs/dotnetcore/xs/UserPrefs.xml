@@ -1,9 +1,11 @@
 ﻿<Properties StartupConfiguration="{874B19B0-B6CA-4FD0-B748-7E8661517EA7}|EdgePipeline">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.IoTMonitoring PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="EdgePipeline/Services/ThingsViewModelService.cs">
     <Files>
       <File FileName="EdgePipeline/Startup.cs" />
@@ -24,33 +26,14 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="dotnetcore">
+          <Node name="dotnetcore" expanded="True">
             <Node name="IoTMonitoring">
-              <Node name="Controllers" expanded="True">
-                <Node name="Api" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
-              <Node name="Services" expanded="True">
-                <Node name="ThingsViewModelService.cs" selected="True" />
-              </Node>
+              <Node name="Services" expanded="True" />
             </Node>
-            <Node name="IoTMonitoring.Core">
-              <Node name="Entities" expanded="True">
-                <Node name="SensorValueAggregate" expanded="True" />
-              </Node>
-              <Node name="Interfaces" expanded="True" />
-            </Node>
-            <Node name="IoTMonitoring.Data">
-              <Node name="Data" expanded="True">
-                <Node name="Repositories" expanded="True" />
-              </Node>
-              <Node name="Identity" expanded="True" />
-            </Node>
+            <Node name="IoTMonitoring.Tests" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
