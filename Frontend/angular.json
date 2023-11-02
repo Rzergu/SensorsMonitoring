@@ -147,7 +147,6 @@
       }
     }
   },
-  "defaultProject": "EdgePipeline",
   "cli": {
     "analytics": "ed0259bc-862e-444b-903e-7eff652f80bf"
   }
